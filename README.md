@@ -42,4 +42,3 @@ Using Power BI, DAX measures, and data visualization techniques, I developed a c
 ## Outcome
 
 Successfully developed an end-to-end HR Analytics Dashboard that transforms workforce data into meaningful business insights. The dashboard enables effective monitoring of employee attrition, workforce demographics, employee satisfaction, and departmental performance. By providing a centralized view of key HR metrics, the solution supports strategic workforce planning, employee retention initiatives, and data-driven HR decision-making.
-# HR-Workforce-Analytics-Dashboard
